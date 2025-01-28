@@ -1,36 +1,27 @@
-Probably make this a git repo and git pages that way source and elegant page can be seen. Large projects can be spec'd like this in the future as well.
 
-```
-Markdown Format Key
+```javascript
+# Markdown Format Key
 
 ## Collapsable Sidebar Tabs
-Sublist items
-* design points
+
+### Sublist items
+
+* design point 1
+* design point 2
  
-ie.
-## Reports
-Store Transactions
-* Heading
-	* "Store Transactions"
-* Columns
-	* |Order|Store|Cashier|Customer|Payment Details|Custom Fields|Discount Coupon|Tax|Sub Total|Grand Total|
+** Requirements **
+1. first
+2. second
+3. third
 
-Payment Type
-* Heading
-	* "Payment Type"
-* Columns
-	* |Order|Store|Cashier|Customer|Payment Details|Custom Fields|Discount Coupon|Tax|Sub Total|Grand Total|
-
-%% a comment. needs work. team input etc. %% 
-
-## Next sidebar item
+%% Comments, questions, clarifications needed %%
 ```
 ## Register
 Pos register
 * Stores
 	* rabers-mentone
 	* rabers-macy
-	  %% Maybe we need store selection elsewhere? I don't like nested collapsible lists %%	
+	  %% Maybe we need store selection elsewhere? I don't like nested collapsible lists %%
 
 ## Barcodes
 
