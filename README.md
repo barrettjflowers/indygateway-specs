@@ -1,27 +1,21 @@
 ## Markdown Spec Format Key
-```
+`
+```javascript
+# Markdown Format Key
+
 ## Collapsable Sidebar Tabs
-Sublist items
-* design points
+
+### Sublist items
+
+* design point 1
+* design point 2
  
-ie.
-## Reports
-Store Transactions
-* Heading
-	* "Store Transactions"
-* Columns
-	* |Order|Store|Cashier|Customer|Payment Details|Custom Fields|Discount Coupon|Tax|Sub Total|Grand Total|
+** Requirements **
+1. first
+2. second
+3. third
 
-Payment Type
-* Heading
-	* "Payment Type"
-* Columns
-	* |Order|Store|Cashier|Customer|Payment Details|Custom Fields|Discount Coupon|Tax|Sub Total|Grand Total|
-
-%% a comment. needs work. team input etc. %% 
-
-## Next sidebar item
+%% Comments, questions, clarifications needed %%
 ```
-
 ## Specs
 [igw-v3-secure](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Secure%20Spec)

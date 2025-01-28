@@ -1,21 +1,4 @@
 
-```javascript
-# Markdown Format Key
-
-## Collapsable Sidebar Tabs
-
-### Sublist items
-
-* design point 1
-* design point 2
- 
-** Requirements **
-1. first
-2. second
-3. third
-
-%% Comments, questions, clarifications needed %%
-```
 ## Register
 Pos register
 * Stores
