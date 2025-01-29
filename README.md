@@ -9,6 +9,7 @@
 
 * design point 1
 * design point 2
+* design point 3
  
 ** Requirements **
 1. first
@@ -19,3 +20,4 @@
 ```
 ## Specs
 [igw-v3-secure](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Secure%20Spec)
+[igw-v3-super](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Super%20Spec)
