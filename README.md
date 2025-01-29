@@ -16,7 +16,7 @@
 2. second
 3. third
 
-%% Comments, questions, clarifications needed %%
+*Comments, questions, clarifications needed*
 ```
 ## Specs
 [igw-v3-secure](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Secure%20Spec) \

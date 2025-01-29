@@ -2,10 +2,9 @@
 ## Register
 Pos register
 * Stores
+  *Maybe we need store selection elsewhere? I don't like nested collapsible lists*
 	* rabers-mentone
 	* rabers-macy
-	  %% Maybe we need store selection elsewhere? I don't like nested collapsible lists %%
-
 ## Barcodes
 
 ## CashDrawers
