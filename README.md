@@ -19,5 +19,5 @@
 %% Comments, questions, clarifications needed %%
 ```
 ## Specs
-[igw-v3-secure](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Secure%20Spec)
+[igw-v3-secure](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Secure%20Spec) \
 [igw-v3-super](https://barrettjflowers.github.io/indygateway-specs/IGW%20v3%20Super%20Spec)
